@@ -1,0 +1,36 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# Cargo
+.cargo/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and local outputs
+*.log
+out.wav
+out.flac
+out.mp3
+
+# Local application/runtime state
+runtime/
+outputs/
+benchmarks/latest.json

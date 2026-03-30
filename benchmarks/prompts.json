@@ -1,0 +1,14 @@
+[
+  {
+    "name": "short",
+    "text": "Your package has shipped and will arrive tomorrow before 8 PM."
+  },
+  {
+    "name": "medium",
+    "text": "Welcome back. I checked your account, and everything is set for today’s appointment. Please arrive ten minutes early, bring a photo ID, and reply to this message if you need to reschedule or if you have any accessibility requests before you come in."
+  },
+  {
+    "name": "long",
+    "text": "Thanks for calling the travel desk. I found two nonstop options for your trip next Thursday. The first flight leaves New York at 8:15 in the morning and lands in San Francisco a little after eleven local time. The second option leaves at 1:40 in the afternoon and arrives just before five. The morning flight is slightly cheaper, but the afternoon flight includes more flexible change rules.\n\nIf you’d like, I can hold either option for the next twenty-four hours while you confirm your hotel. I can also add a seat preference, checked baggage, and a return flight before I finalize anything. Tell me which departure you prefer, and I’ll prepare the itinerary for review."
+  }
+]
