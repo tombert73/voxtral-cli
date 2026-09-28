@@ -34,3 +34,7 @@ out.mp3
 runtime/
 outputs/
 benchmarks/latest.json
+
+# Local voice references and generated clips (personal; not published)
+refs/
+out/
